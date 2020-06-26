@@ -2,9 +2,9 @@
 
 	===== Info About This File =====
 
-	" This is the main typescript file for DSA-JS (Data Structures & Algorithms - JS).
+	" This is the main typescript file for Node-DSA-lib (NodeJS Data Structures & Algorithms).
 
-	- Package name: dsa-js
+	- Package name: node-dsa-lib
 	- Author: Iannis de Zwart (https://github.com/iannisdezwart)
 
 	===== Table of Contents =====
